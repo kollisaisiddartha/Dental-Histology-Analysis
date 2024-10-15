@@ -1,0 +1,6 @@
+Dataset Usage Notice
+
+The dataset used in this project consists of medical data and is subject to privacy and 
+confidentiality regulations. As a result, the dataset cannot be shared publicly. It has 
+been used solely for the purpose of this project, with the necessary permissions obtained 
+from relevant authorities.
